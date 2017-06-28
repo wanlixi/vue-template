@@ -1,5 +1,6 @@
 # vue-template
 *** 技术栈 ***
+<br>
 vue2.x + vue-router2.x + vuex 2.x + webpack + stylus + node + axios + mock
 <br>
 自己从vue开发诸多项目经验中提炼出来的一个通用模板, 大家可以直接拿去使用，也可以根据个人特殊需要进行扩展，如果喜欢，帮忙给颗星 
