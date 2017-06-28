@@ -15,7 +15,7 @@ vue2.x + vue-router2.x + vuex 2.x + webpack + stylus + node + axios + mock
 import store from './store' 
 ```
 <br>
-1. 下载template.7z,可以到 [.7z官网](http://www.7-zip.org/)下载 .7z 压缩工具，占用内存更小，压缩/解压速度更快
+1. 下载template.7z,可以到 [7z官网](http://www.7-zip.org) 下载 .7z 压缩工具，占用内存更小，压缩/解压速度更快
 <br>
 2. 进入template文件下，shift + 鼠标右键 打开命令行工具
 <br>
