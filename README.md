@@ -16,6 +16,8 @@ vue2.x + vue-router2.x + vuex 2.x + webpack + stylus + node + axios + mock
 <br>
 2. 进入template文件下，shift + 鼠标右键 打开命令行工具
 <br>
-3. 下载依赖包： ``` npm i ```
+3. 下载依赖包：
+``` npm i ```
 <br>
-4. 运行项目： ``` npm run dev ```
+4. 运行项目： 
+``` npm run dev ```
