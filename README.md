@@ -19,12 +19,6 @@ import store from './store'
 </br>
 2. 进入template文件下，shift + 鼠标右键 打开命令行工具
 </br>
-3. 下载依赖包：
-```
-npm i
-```
+3. 下载依赖包：npm i
 </br>
-4. 运行项目： 
-```
-npm run dev 
-```
+4. 运行项目：npm run dev
