@@ -21,10 +21,10 @@ import store from './store'
 <br>
 3. 下载依赖包：
 ```
-npm i 
+npm i
 ```
 <br>
 4. 运行项目： 
-``` 
+```
 npm run dev 
 ```
