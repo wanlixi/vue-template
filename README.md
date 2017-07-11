@@ -23,3 +23,19 @@
 3. 下载依赖包：npm i
 </br>
 4. 运行项目：npm run dev
+-------------------------------------------------------------------------------------------------------------------------------------------
+2017/07/11
+忘记配置postcss
+
+### npm i --save-dev postcss-loader
+
+### vue-loader.conf.js
+module.exports = {
+  loaders: utils.cssLoaders({
+    sourceMap: isProduction
+      ? config.build.productionSourceMap
+      : config.dev.cssSourceMap,
+    extract: isProduction
+  }),
+  postcss: [require('autoprefixer')({ browsers: ['last 10 Chrome versions', 'last 5 Firefox versions', 'Safari >= 6', 'ie > 8'] })]
+}
