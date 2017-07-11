@@ -30,6 +30,7 @@
 ### npm i --save-dev postcss-loader
 
 ### vue-loader.conf.js
+```
 module.exports = {
   loaders: utils.cssLoaders({
     sourceMap: isProduction
@@ -39,3 +40,4 @@ module.exports = {
   }),
   postcss: [require('autoprefixer')({ browsers: ['last 10 Chrome versions', 'last 5 Firefox versions', 'Safari >= 6', 'ie > 8'] })]
 }
+```
